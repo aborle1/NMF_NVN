@@ -1,0 +1,3 @@
+dirac3_exp2 and dirac3_exp4 have test set A for experiments 2 and 4 respectively.
+
+dirac3_exp2a and dirac3_exp4a have test set B for experiments 2 and 4 respectively.

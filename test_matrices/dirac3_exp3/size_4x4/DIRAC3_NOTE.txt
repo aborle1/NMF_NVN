@@ -1,0 +1,2 @@
+{"message":"Total number of levels '1248' (across '624' variables) is greater than the device limit '954'"} 
+PS E:\cur_pycode\CN_boston_code> 

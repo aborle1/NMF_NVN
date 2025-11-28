@@ -1,0 +1,6 @@
+All these results are for when the sum constraint was the size of V. Which is wrong.
+
+
+0.06337311500605344
+
+0.06337530962470891
